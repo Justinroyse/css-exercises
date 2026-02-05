@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.click-me-button {
+   font-size: 28px; 
+   font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.negative-click-me {
+    color: white;
+    background-color: red;
+
+}
+
+.positive-click-me {
+   color: black;
+   background-color: white;
+}
