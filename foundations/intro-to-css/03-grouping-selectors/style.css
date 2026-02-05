@@ -1,7 +1,7 @@
 /* Add CSS Styling */
-.positive-click-me
+.positive-click-me,
 .negative-click-me {
-   font-size: 28px; 
+   font-size: 48px; 
    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
